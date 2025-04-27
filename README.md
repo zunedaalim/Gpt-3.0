@@ -1,4 +1,4 @@
-# Project Title (e.g., Modern AI Landing Page - React Implementation)
+#  Modern AI Landing Page
 
 ![{557C2D10-6D6B-4950-8C42-A59DA66B3BDB}](https://github.com/user-attachments/assets/7ba82865-4d10-43d1-9d60-21c63de487a0)
 
