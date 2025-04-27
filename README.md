@@ -1,7 +1,7 @@
 # Project Title (e.g., Modern AI Landing Page - React Implementation)
 
-{![{557C2D10-6D6B-4950-8C42-A59DA66B3BDB}](https://github.com/user-attachments/assets/7ba82865-4d10-43d1-9d60-21c63de487a0)
-}
+![{557C2D10-6D6B-4950-8C42-A59DA66B3BDB}](https://github.com/user-attachments/assets/7ba82865-4d10-43d1-9d60-21c63de487a0)
+
 
 ## About This Project
 
@@ -33,7 +33,7 @@ To run this project locally:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/zunedaalim/Gpt-3.0.git](https://github.com/zunedaalim/Gpt-3.0.git)
     ```
 2.  Navigate to the project directory:
     ```bash
