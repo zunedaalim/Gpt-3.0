@@ -15,13 +15,11 @@ This project is a frontend implementation of a modern website design, originally
 * **Figma to Code:** Conversion of a visual design from Figma.
 * **Responsive Design:** Adapts to various screen sizes (mention if true).
 * **Component-Based Structure:** Organized using reusable React components.
-* **(Add any other specific features you implemented, e.g., specific animations, API integrations, etc.)**
 
 ## 💻 Tech Stack
 
 * **Frontend:** React.js
 * **Styling:** (Mention what you used - e.g., CSS Modules, Styled Components, Tailwind CSS, plain CSS)
-* **(Add any other libraries or tools used, e.g., React Router, state management libraries)**
 
 ## 🚀 Live Demo
 
